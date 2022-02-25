@@ -72,3 +72,7 @@ Ce package nous permet de lier notre environnement virtuel à jupyter notebook
 	python -m ipykernel install --user --name tfod
 </code>
 </pre>
+
+### Installer les outils de génération de Visual C++
+
+* ![https://visualstudio.microsoft.com/fr/vs/community/](https://visualstudio.microsoft.com/fr/vs/community/)
