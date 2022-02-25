@@ -85,6 +85,9 @@ Alors ceuci ne sont pas obligatoire si vous n'avez pas un processeur graphique d
 
 * (**Windows**): [https://www.tensorflow.org/install/source_windows](https://www.tensorflow.org/install/source_windows)
 
+### Consultez le guide des erreurs sur github
+
+* [https://github.com/nicknochnack/TFODCourse/blob/main/Error%20Guide.md](https://github.com/nicknochnack/TFODCourse/blob/main/Error%20Guide.md)
 ## Ressources
 
 * **Tensorflow Object Detection Python Course Code**:  
