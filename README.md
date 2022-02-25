@@ -75,7 +75,7 @@ Ce package nous permet de lier notre environnement virtuel à jupyter notebook
 
 ### Installer les outils de génération de Visual C++
 
-* ![https://visualstudio.microsoft.com/fr/vs/community/](https://visualstudio.microsoft.com/fr/vs/community/)
+* [https://visualstudio.microsoft.com/fr/vs/community/](https://visualstudio.microsoft.com/fr/vs/community/)
 
 ### Installer la version appropriée de CUDA et cuDNN
 
