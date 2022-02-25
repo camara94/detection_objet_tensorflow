@@ -82,3 +82,5 @@ Ce package nous permet de lier notre environnement virtuel à jupyter notebook
 Alors ceuci ne sont pas obligatoire si vous n'avez pas un processeur graphique dedié, mais par contre si nous en avez cela va permettre d'acceler vos processus d'entrainement de modèle de **Deep Learning** 
 
 * (Linux et MacOS): [https://www.tensorflow.org/install/source#ubuntu](https://www.tensorflow.org/install/source#ubuntu)
+
+* (Windows): [https://www.tensorflow.org/install/source_windows](https://www.tensorflow.org/install/source_windows)
