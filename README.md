@@ -61,3 +61,14 @@ pourquoi créer un environnement virtuel
  	python -m pip install --upgrade pip
 </code>
 </pre>
+
+### Ajout de it à Jupyter Kernel (Noyau)
+
+Ce package nous permet de lier notre environnement virtuel à jupyter notebook
+
+<pre>
+<code> 
+ 	pip install ipykernel
+	python -m ipykernel install --user --name tfod
+</code>
+</pre>
