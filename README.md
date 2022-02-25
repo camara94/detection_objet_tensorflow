@@ -84,3 +84,8 @@ Alors ceuci ne sont pas obligatoire si vous n'avez pas un processeur graphique d
 * (**Linux et MacOS**): [https://www.tensorflow.org/install/source#ubuntu](https://www.tensorflow.org/install/source#ubuntu)
 
 * (**Windows**): [https://www.tensorflow.org/install/source_windows](https://www.tensorflow.org/install/source_windows)
+
+## Ressources
+
+* **Tensorflow Object Detection Python Course Code**:  
+   * [https://github.com/nicknochnack/TFODCourse](https://github.com/nicknochnack/TFODCourse)
