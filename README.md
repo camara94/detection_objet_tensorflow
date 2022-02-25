@@ -31,4 +31,12 @@ pourquoi créer un environnement virtuel
 
 ## Installation et Configuration
 
+### Crée Environnement 
+
+<pre>
+<code> 
+ 	python -m venv tfod
+</code>
+</pre>
+
 
