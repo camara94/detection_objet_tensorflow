@@ -88,4 +88,6 @@ Alors ceuci ne sont pas obligatoire si vous n'avez pas un processeur graphique d
 ## Ressources
 
 * **Tensorflow Object Detection Python Course Code**:  
-   * [https://github.com/nicknochnack/TFODCourse](https://github.com/nicknochnack/TFODCourse)
+  * [https://github.com/nicknochnack/TFODCourse](https://github.com/nicknochnack/TFODCourse)
+* **Tensorflow Object Detection React App**: 
+  *  [https://github.com/nicknochnack/TFODApp](https://github.com/nicknochnack/TFODApp)
