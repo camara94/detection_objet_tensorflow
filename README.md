@@ -76,3 +76,9 @@ Ce package nous permet de lier notre environnement virtuel à jupyter notebook
 ### Installer les outils de génération de Visual C++
 
 * ![https://visualstudio.microsoft.com/fr/vs/community/](https://visualstudio.microsoft.com/fr/vs/community/)
+
+### Installer la version appropriée de CUDA et cuDNN
+
+Alors ceuci ne sont pas obligatoire si vous n'avez pas un processeur graphique dedié, mais par contre si nous en avez cela va permettre d'acceler vos processus d'entrainement de modèle de **Deep Learning** 
+
+* (Linux et MacOS): [https://www.tensorflow.org/install/source#ubuntu](https://www.tensorflow.org/install/source#ubuntu)
