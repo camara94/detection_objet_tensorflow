@@ -54,3 +54,10 @@ pourquoi créer un environnement virtuel
  	.\tfod\Scripts\activate
 </code>
 </pre>
+### Mise à Jour des Dépendances PIP
+
+<pre>
+<code> 
+ 	python -m pip install --upgrade pip
+</code>
+</pre>
