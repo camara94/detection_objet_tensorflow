@@ -28,3 +28,7 @@ pourquoi créer un environnement virtuel
 2. Ce que nous allons faire est de créer un nouvel environnement virtuel pour des
  eventuel conflit entre les packages
 3. Cela nous assure qu'on a des packages principaux 
+
+## Installation et Configuration
+
+
