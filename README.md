@@ -47,4 +47,10 @@ pourquoi créer un environnement virtuel
 </code>
 </pre>
 
+### Activation de l'Environnement sous (Windows)
 
+<pre>
+<code> 
+ 	.\tfod\Scripts\activate
+</code>
+</pre>
