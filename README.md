@@ -39,4 +39,12 @@ pourquoi créer un environnement virtuel
 </code>
 </pre>
 
+### Activation de l'Environnement sous (MacOS)
+
+<pre>
+<code> 
+ 	source tfod/bin/activate
+</code>
+</pre>
+
 
